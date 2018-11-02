@@ -1,14 +1,3 @@
-Released under the MIT license: http://jsbin.mit-license.org
--->
-<meta name="robots" content="noindex">
-    <meta name="description" content="lOGO">
-    <meta name="keywords" content="Flower">
-    <meta name="author" content="Sado Farah">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <title> Liquid Layout </title>
-    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/18th-century" type="text/css"/>
-  
 
 h1 { 
   font-family: '18thCenturyInitialsRegular'; 
@@ -64,7 +53,14 @@ height: 10em;
   background-position: center;
   background-repeat:no-repeat;
 }
- <div id="header">
+
+
+
+    
+</style>
+</head>
+<body>
+  <div id="header">
     <h1>Final Project </h1>
     <hr>
     <h2> Portfolio </h2>
@@ -95,10 +91,5 @@ height: 10em;
     </div>
   </div>
   <div id="footer">
-    
+    <p>&copy; Copyright 2011</p>
   </div>
-
-</style>
-</head>
-<body>
- 
